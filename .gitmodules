@@ -1,3 +1,45 @@
 [submodule "cub3D"]
 	path = cub3D
 	url = https://github.com/UN-35/cub3D.git
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = https://github.com/UN-35/ft_transcendence.git
+[submodule "NetPractice"]
+	path = NetPractice
+	url = https://github.com/UN-35/NetPractice.git
+[submodule "libft_1337cursus"]
+	path = libft_1337cursus
+	url = https://github.com/UN-35/libft_1337cursus.git
+[submodule "FT_PRINTF"]
+	path = FT_PRINTF
+	url = https://github.com/UN-35/FT_PRINTF.git
+[submodule "Born2beroot"]
+	path = Born2beroot
+	url = https://github.com/UN-35/Born2beroot.git
+[submodule "Get_Next_Line"]
+	path = Get_Next_Line
+	url = https://github.com/UN-35/Get_Next_Line.git
+[submodule "PIPEX"]
+	path = PIPEX
+	url = https://github.com/UN-35/PIPEX.git
+[submodule "Push_Swap"]
+	path = Push_Swap
+	url = https://github.com/UN-35/Push_Swap.git
+[submodule "SO_LONG-2D_GAME"]
+	path = SO_LONG-2D_GAME
+	url = https://github.com/UN-35/SO_LONG-2D_GAME.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = https://github.com/UN-35/Philosophers.git
+[submodule "Inception"]
+	path = Inception
+	url = https://github.com/UN-35/Inception.git
+[submodule "CPP_1337cursus"]
+	path = CPP_1337cursus
+	url = https://github.com/UN-35/CPP_1337cursus.git
+[submodule "3D_PongGame"]
+	path = 3D_PongGame
+	url = https://github.com/UN-35/3D_PongGame.git
+[submodule "IRC_Server"]
+	path = IRC_Server
+	url = https://github.com/UN-35/IRC_Server.git
