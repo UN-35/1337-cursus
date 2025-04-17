@@ -132,7 +132,7 @@ The curriculum follows a logical progression of skills:
 
 ## 👤 About Me
 
-I'm a software developer who completed the rigorous commun core curriculum at 1337 School, part of the 42 Network. Through this educational journey, I've developed a strong foundation in computer science fundamentals and practical programming skills, with a focus on clean, efficient code and robust system design.
+I'm a software developer who completed the rigorous common core curriculum at 1337 School, part of the 42 Network. Through this educational journey, I've developed a strong foundation in computer science fundamentals and practical programming skills, with a focus on clean, efficient code and robust system design.
 
 <div align="center">
   
