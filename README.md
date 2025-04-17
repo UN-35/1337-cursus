@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/School-1337/42-lightgrey.svg?style=for-the-badge" alt="1337 School">
-  <img src="https://img.shields.io/badge/Language-C/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" alt="Language">
+  <img src="https://img.shields.io/badge/Language-C/C++/Python/JavaScript-blue.svg?style=for-the-badge&logo=c%2B%2B" alt="Language">
   <img src="https://img.shields.io/badge/Status-Completed-green.svg?style=for-the-badge" alt="Status">
 </div>
 
@@ -22,7 +22,7 @@ The curriculum is divided into several circles of increasing difficulty:
 - **Circle 5-6**: Advanced system concepts, networking, and web development
 - **Final Projects**: Comprehensive full-stack applications
 
-## 🧱 Foundation Projects (Circle 1-2)
+## 🧱 Foundation Projects
 
 These initial projects establish core programming skills, focusing on C language fundamentals, memory management, and basic algorithms.
 
@@ -33,7 +33,7 @@ These initial projects establish core programming skills, focusing on C language
 | [**ft_printf**](./ft_printf) | Recoding the printf function | Variadic functions, String formatting, Parsing |
 | [**Born2beroot**](./born2beroot) | System administration through virtual machine setup | Virtualization, System configuration, Security policies |
 
-## 🖥️ Algorithms & Graphics (Circle 3-4)
+## 🖥️ Algorithms & Graphics
 
 Projects focused on algorithmic problem-solving, graphics programming, and concurrent programming.
 
@@ -45,7 +45,7 @@ Projects focused on algorithmic problem-solving, graphics programming, and concu
 | [**Philosophers**](./philosophers) | Solution to the dining philosophers problem | Thread synchronization, Mutex management, Race condition prevention |
 | [**Cub3D**](./cub3D) | Raycasting game inspired by Wolfenstein 3D | Raycasting, 3D rendering, Game physics |
 
-## 🌐 Advanced Concepts (Circle 5-6)
+## 🌐 Advanced Concepts
 
 Deeper dives into system programming, networking, and web technologies.
 
